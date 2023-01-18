@@ -28,5 +28,5 @@
 
 <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rayan%20Dajani-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayandajani/)]((https://www.linkedin.com/in/rayandajani/))
+[![Linkedin Badge](https://img.shields.io/badge/-Rayan%20ALDajani-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayandajani)](https://www.linkedin.com/in/rayandajani)
 </div>
