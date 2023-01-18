@@ -25,3 +25,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r2ryan&show_icons=true&locale=en" alt="r2ryan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r2ryan&" alt="r2ryan" /></p>
+
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-Rayan%20Dajani-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelnasr03/)]((https://www.linkedin.com/in/rayandajani/))
+</div>
