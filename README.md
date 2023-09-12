@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/R2RyAn](github.com/R2RyAn)
 
-- 📫 How to reach me **rayandajani@hotmail.com**
+- 📫 How to reach me **rayandajani21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
